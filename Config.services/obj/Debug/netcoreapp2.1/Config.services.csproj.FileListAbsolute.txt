@@ -1,0 +1,9 @@
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Config.services\bin\Debug\netcoreapp2.1\Config.services.deps.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Config.services\bin\Debug\netcoreapp2.1\Config.services.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Config.services\bin\Debug\netcoreapp2.1\Config.services.pdb
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Config.services\obj\Debug\netcoreapp2.1\Config.services.csprojAssemblyReference.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Config.services\obj\Debug\netcoreapp2.1\Config.services.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Config.services\obj\Debug\netcoreapp2.1\Config.services.AssemblyInfoInputs.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Config.services\obj\Debug\netcoreapp2.1\Config.services.AssemblyInfo.cs
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Config.services\obj\Debug\netcoreapp2.1\Config.services.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Config.services\obj\Debug\netcoreapp2.1\Config.services.pdb

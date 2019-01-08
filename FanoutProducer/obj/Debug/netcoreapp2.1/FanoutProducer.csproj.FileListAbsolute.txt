@@ -1,0 +1,14 @@
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\bin\Debug\netcoreapp2.1\FanoutProducer.deps.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\bin\Debug\netcoreapp2.1\FanoutProducer.runtimeconfig.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\bin\Debug\netcoreapp2.1\FanoutProducer.runtimeconfig.dev.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\bin\Debug\netcoreapp2.1\FanoutProducer.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\obj\Debug\netcoreapp2.1\FanoutProducer.csprojAssemblyReference.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\obj\Debug\netcoreapp2.1\FanoutProducer.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\obj\Debug\netcoreapp2.1\FanoutProducer.AssemblyInfoInputs.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\obj\Debug\netcoreapp2.1\FanoutProducer.AssemblyInfo.cs
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\bin\Debug\netcoreapp2.1\FanoutProducer.pdb
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\obj\Debug\netcoreapp2.1\FanoutProducer.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\obj\Debug\netcoreapp2.1\FanoutProducer.pdb
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\bin\Debug\netcoreapp2.1\Config.services.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\bin\Debug\netcoreapp2.1\Config.services.pdb
+C:\Users\rnayyar\source\repos\RabbitMQPractice\FanoutProducer\obj\Debug\netcoreapp2.1\FanoutProducer.csproj.CopyComplete

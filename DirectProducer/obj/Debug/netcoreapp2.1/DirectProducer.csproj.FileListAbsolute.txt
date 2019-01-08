@@ -1,0 +1,11 @@
+C:\Users\rnayyar\source\repos\RabbitMQPractice\DirectProducer\bin\Debug\netcoreapp2.1\DirectProducer.deps.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\DirectProducer\bin\Debug\netcoreapp2.1\DirectProducer.runtimeconfig.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\DirectProducer\bin\Debug\netcoreapp2.1\DirectProducer.runtimeconfig.dev.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\DirectProducer\bin\Debug\netcoreapp2.1\DirectProducer.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\DirectProducer\obj\Debug\netcoreapp2.1\DirectProducer.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\DirectProducer\obj\Debug\netcoreapp2.1\DirectProducer.AssemblyInfoInputs.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\DirectProducer\obj\Debug\netcoreapp2.1\DirectProducer.AssemblyInfo.cs
+C:\Users\rnayyar\source\repos\RabbitMQPractice\DirectProducer\bin\Debug\netcoreapp2.1\DirectProducer.pdb
+C:\Users\rnayyar\source\repos\RabbitMQPractice\DirectProducer\obj\Debug\netcoreapp2.1\DirectProducer.csprojAssemblyReference.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\DirectProducer\obj\Debug\netcoreapp2.1\DirectProducer.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\DirectProducer\obj\Debug\netcoreapp2.1\DirectProducer.pdb

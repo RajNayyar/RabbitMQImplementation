@@ -1,0 +1,14 @@
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\bin\Debug\netcoreapp2.1\Publisherr.deps.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\bin\Debug\netcoreapp2.1\Publisherr.runtimeconfig.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\bin\Debug\netcoreapp2.1\Publisherr.runtimeconfig.dev.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\bin\Debug\netcoreapp2.1\Publisherr.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\bin\Debug\netcoreapp2.1\Publisherr.pdb
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\obj\Debug\netcoreapp2.1\Publisherr.csprojAssemblyReference.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\obj\Debug\netcoreapp2.1\Publisherr.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\obj\Debug\netcoreapp2.1\Publisherr.AssemblyInfoInputs.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\obj\Debug\netcoreapp2.1\Publisherr.AssemblyInfo.cs
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\obj\Debug\netcoreapp2.1\Publisherr.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\obj\Debug\netcoreapp2.1\Publisherr.pdb
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\bin\Debug\netcoreapp2.1\Config.services.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\bin\Debug\netcoreapp2.1\Config.services.pdb
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Consumer\obj\Debug\netcoreapp2.1\Publisherr.csproj.CopyComplete

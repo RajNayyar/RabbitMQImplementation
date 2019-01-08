@@ -1,0 +1,9 @@
+C:\Users\rnayyar\source\repos\RabbitMQPractice\RabbitMQPractice\bin\Debug\netcoreapp2.1\RabbitMQPractice.deps.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\RabbitMQPractice\bin\Debug\netcoreapp2.1\RabbitMQPractice.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\RabbitMQPractice\obj\Debug\netcoreapp2.1\RabbitMQPractice.csprojAssemblyReference.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\RabbitMQPractice\obj\Debug\netcoreapp2.1\RabbitMQPractice.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\RabbitMQPractice\obj\Debug\netcoreapp2.1\RabbitMQPractice.AssemblyInfoInputs.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\RabbitMQPractice\obj\Debug\netcoreapp2.1\RabbitMQPractice.AssemblyInfo.cs
+C:\Users\rnayyar\source\repos\RabbitMQPractice\RabbitMQPractice\bin\Debug\netcoreapp2.1\RabbitMQPractice.pdb
+C:\Users\rnayyar\source\repos\RabbitMQPractice\RabbitMQPractice\obj\Debug\netcoreapp2.1\RabbitMQPractice.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\RabbitMQPractice\obj\Debug\netcoreapp2.1\RabbitMQPractice.pdb

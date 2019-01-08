@@ -1,0 +1,11 @@
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Publisher\bin\Debug\netcoreapp2.1\Consumer.deps.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Publisher\bin\Debug\netcoreapp2.1\Consumer.runtimeconfig.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Publisher\bin\Debug\netcoreapp2.1\Consumer.runtimeconfig.dev.json
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Publisher\bin\Debug\netcoreapp2.1\Consumer.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Publisher\bin\Debug\netcoreapp2.1\Consumer.pdb
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Publisher\obj\Debug\netcoreapp2.1\Consumer.csprojAssemblyReference.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Publisher\obj\Debug\netcoreapp2.1\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Publisher\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfoInputs.cache
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Publisher\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfo.cs
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Publisher\obj\Debug\netcoreapp2.1\Consumer.dll
+C:\Users\rnayyar\source\repos\RabbitMQPractice\Publisher\obj\Debug\netcoreapp2.1\Consumer.pdb
